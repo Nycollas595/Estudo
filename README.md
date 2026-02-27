@@ -7,5 +7,8 @@ if Valor <=2:
 elif Valor <=1:
   print("Não tem saldo") 
 
-else: 
-  print("Para de gasta")
+elif Valor <=0: 
+  print("Para de gasta") 
+
+else:
+  print("Se Idiota")
