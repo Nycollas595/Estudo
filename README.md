@@ -10,5 +10,8 @@ elif Valor <=1:
 elif Valor <=0: 
   print("Para de gasta") 
 
-else:
-  print("Se Idiota")
+elif Valor <=1:
+  print("Se Idiota"i)  
+
+else: 
+  print("Besta")
